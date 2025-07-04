@@ -10,7 +10,7 @@ Here you'll find a collection of projects that showcase my experience and passio
 - **Technologies:** Spring, MongoDB, SQL, Docker (basics), and WSO2 (API Management)
 - **Domains:** Software Development, Cybersecurity, Artificial Inteligence, and Machine Learning
 
-📒 Publications
+## 📒 Publications
 - [BioMedInformatics](https://www.mdpi.com/2673-7426/3/3/40) ([Instituto de Telecomunicações](https://www.it.pt/Publications/PaperJournal/33829))
 
 ## 📄 CV
