@@ -19,8 +19,9 @@ Here you'll find a collection of projects that showcase my experience and passio
 ---
 
 ## 📫 Contact
+
 📧 Email: adara.stephany@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/adara-nogueira](https://www.linkedin.com/in/adara-nogueira/)
+🔗 [LinkedIn](https://www.linkedin.com/in/adara-nogueira/)
 
 ---
 
