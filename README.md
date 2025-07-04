@@ -1,4 +1,4 @@
-# 👩‍💻 Adara Nogueira – Full Stack Developer – Technical Portfolio
+# 👩‍💻 Adara Nogueira's Technical Portfolio – Full Stack Developer
 
 Welcome to my technical portfolio!
 Here you'll find a collection of projects that showcase my experience and passion for Software Development, Artificial Intelligence, Machine Learning and Cybersecurity.
