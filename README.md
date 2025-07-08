@@ -11,7 +11,7 @@ Here you'll find a collection of projects that showcase my experience and passio
 - **Domains:** Software Development, Cybersecurity, Artificial Inteligence, and Machine Learning
 
 ## 📁 Featured Projects
-- 🧬 **[ML Pipeline – Cancer Detection](./cancer-diagnosis-ml)** A complete machine learning pipeline to detect and classify cancer based on DNA microarray data. Includes data preprocessing, feature selection, dimensionality reduction, and classification.
+- 🧬 **[ML Pipeline – Cancer Detection](https://github.com/adaranogueira/cancer-diagnosis-ml)** A complete machine learning pipeline to detect and classify cancer based on DNA microarray data. Includes data preprocessing, feature selection, dimensionality reduction, and classification.
 
 ## 📒 Publications
 - [A Machine Learning Pipeline for Cancer Detection on Microarray Data: The Role of Feature Discretization and Feature Selection](https://www.mdpi.com/2673-7426/3/3/40)
